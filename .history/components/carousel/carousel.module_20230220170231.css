@@ -1,0 +1,7 @@
+/** flex or grid on stylzijg the pages**/
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

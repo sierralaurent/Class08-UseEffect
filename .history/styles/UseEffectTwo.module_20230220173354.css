@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+    gap: 20px;
+    font-size: 25px;
+}
+
+.title {
+    color: blueviolet;
+}

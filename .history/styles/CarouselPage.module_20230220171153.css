@@ -1,0 +1,10 @@
+/** flex or grid on stylzijg the pages**/
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    font-size: 25px;
+}
+ 

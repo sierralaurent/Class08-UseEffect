@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+    font-size: 25px;
+    background-color: aliceblue;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+}

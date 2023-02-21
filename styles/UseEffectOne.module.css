@@ -1,0 +1,14 @@
+.main {
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 5%;
+    gap: 20px;
+    font-size: 25px;
+    background-color: aliceblue;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,18 @@
+/** flex or grid on stylzijg the pages**/
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px;
+}
+
+.arrow1 {
+    float: left;
+    padding-top: 20%;
+}
+
+.arrow2 {
+    float: right;
+    padding-top: 20%;
+}

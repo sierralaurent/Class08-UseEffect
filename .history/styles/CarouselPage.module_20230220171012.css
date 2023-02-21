@@ -1,0 +1,9 @@
+/** flex or grid on stylzijg the pages**/
+
+.title {
+
+}
+.body {
+    display: flex;
+    align-items: center;
+}
